@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  WordPlay
 //
-//  Created by omenconi on 12/12/16.
+//  Created by omenconi on 12/10/16.
 //  Copyright © 2016 Student. All rights reserved.
 //
 
@@ -29,7 +29,7 @@ class ViewController: UIViewController
     
     @IBAction func saveWords(_ sender: AnyObject)
     {
-        words.wordOne = color.text!
+        words.wordOne = color.text! 
         words.wordTwo = ingVerbOne.text!
         words.wordThree = ingVerbTwo.text!
         words.wordFour = celebrity.text!

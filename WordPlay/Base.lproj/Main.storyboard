@@ -120,7 +120,7 @@
                     <connections>
                         <outlet property="adj" destination="Zme-rh-YKA" id="vCr-q5-NYb"/>
                         <outlet property="celebrity" destination="t3u-uc-wt0" id="Ur3-0f-TWB"/>
-                        <outlet property="color" destination="KIy-Rv-mom" id="ASu-UI-08W"/>
+                        <outlet property="color" destination="bJf-Ke-IXg" id="W0K-ej-NVF"/>
                         <outlet property="firstName" destination="FLM-tq-8bS" id="qMZ-1c-GEX"/>
                         <outlet property="gender" destination="yAD-lg-se8" id="VJc-mG-yu2"/>
                         <outlet property="greeting" destination="Jc2-34-LaM" id="T4Z-ix-P7k"/>
@@ -144,7 +144,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="35h-N4-fOR">
-                                <rect key="frame" x="47" y="73" width="280" height="412"/>
+                                <rect key="frame" x="47" y="105" width="280" height="412"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.91965042546315845" green="0.91965042546315845" blue="0.91965042546315845" alpha="0.72121147260273977" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -159,7 +159,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eLh-qi-8DO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="812" y="37"/>
+            <point key="canvasLocation" x="817" y="54"/>
         </scene>
     </scenes>
 </document>
