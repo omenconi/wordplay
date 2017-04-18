@@ -24,7 +24,6 @@ class ViewController: UIViewController
     override func viewDidLoad()
     {
         super.viewDidLoad()
-       
     }
     
     @IBAction func saveWords(_ sender: AnyObject)
